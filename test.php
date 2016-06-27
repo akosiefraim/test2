@@ -8,5 +8,7 @@
 			echo '<h1>Hello from the other side</h1>'
 			
 		?>
+		<p> HOYHOYHYOHYOHYOHYOHOY </p>
+		<p> musta diyan? </p>
 	</body>
 </html>
